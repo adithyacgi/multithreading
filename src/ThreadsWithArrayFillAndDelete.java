@@ -5,6 +5,7 @@ class ClassWithResource implements Runnable {
 	
 	public synchronized  void inserIntoArray()
 	{	
+		System.out.println("added to test remove this");
 			if(index<arr.length-1)
 			for(int i=0;i<arr.length-1;i++)
 			{
