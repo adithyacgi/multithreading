@@ -6,6 +6,7 @@ public class TestFile {
 		System.out.println("Added ");
 		
 		System.out.println("changes added multiple time");
+		System.out.println("changes after rebase");
 	}
 
 }
